@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: beca237cec799414ab43706a0ce61ec6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _coins: {fileID: 11400000, guid: 10c15f13d5735424a89dbe2167417718, type: 2}
+  - _health: {fileID: 11400000, guid: d87c4d51c56ce744eb3df6c0e3e0abd9, type: 2}
+  - _liveMonsters: {fileID: 11400000, guid: 2c622125e99019c4f85bb14b17ae73b2, type: 2}
+  - _nthWave: {fileID: 11400000, guid: 1e0ee6a38a38fe84d8d1a770e5a12250, type: 2}
+  - _monstersCounter: {fileID: 11400000, guid: 514730df73fd3bf4bbbad88caba65e54, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

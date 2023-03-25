@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41c862080b87d2d4c88984f502b9fcb7, type: 3}
+  m_Name: Level 02
+  m_EditorClassIdentifier: 
+  MaxMonstersOnScreen: 6
+  Monsters:
+  - {fileID: 514200303544778143, guid: 1ab0b4122d52a0a4982ee9f3a08f432a, type: 3}
+  - {fileID: 514200303544778143, guid: 1ab0b4122d52a0a4982ee9f3a08f432a, type: 3}
+  - {fileID: 514200303544778143, guid: 1ab0b4122d52a0a4982ee9f3a08f432a, type: 3}
+  - {fileID: 514200303544778143, guid: 1ab0b4122d52a0a4982ee9f3a08f432a, type: 3}
+  - {fileID: 514200303544778143, guid: 1ab0b4122d52a0a4982ee9f3a08f432a, type: 3}
+  - {fileID: 514200303544778143, guid: 1ab0b4122d52a0a4982ee9f3a08f432a, type: 3}
+  - {fileID: 253383261711386980, guid: 0abe08573f4c1b941ac6214e3e880936, type: 3}
+  - {fileID: 253383261711386980, guid: 0abe08573f4c1b941ac6214e3e880936, type: 3}
+  - {fileID: 253383261711386980, guid: 0abe08573f4c1b941ac6214e3e880936, type: 3}
+  - {fileID: 253383261711386980, guid: 0abe08573f4c1b941ac6214e3e880936, type: 3}
+  - {fileID: 6332406637645037604, guid: b85e2069eebbc534bba27d0a192faf11, type: 3}
+  - {fileID: 6332406637645037604, guid: b85e2069eebbc534bba27d0a192faf11, type: 3}
